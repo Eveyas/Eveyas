@@ -1,3 +1,3 @@
-#  ❤ Hola, soy Eve!🐇
-### *Software development student*
+#  ❤ Hi!
+### *Software development student 🐇*
 
