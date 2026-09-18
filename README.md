@@ -1,3 +1,4 @@
 #  ❤ Hi!
 ### *Software development student 🐇*
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7142C&width=435&lines=%3CHello+World%2F%3E+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%91%89+%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%9A%80;Software+Engineer+%7C+Ing.+Evelin+Laines+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
